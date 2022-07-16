@@ -1,7 +1,9 @@
-# Predicting Tennis MAtch Winners and Losers
+# Predicting Tennis Match Winners and Losers
 ## Hunter Walden, Kevin Mitchell, Jason Myslewski
 ### 16 Jul 2022
 #### George Mason University
+
+Link: [Jupyter Notebook](https://github.com/htwalden/TennisProj/blob/main/TennisProjFinal.ipynb)
 
 Is it possible to determine if a tennis player is a winner or a loser based on their match statistics? We set out to determine if this was possible using data from major tennis tournament matches. There are a number of statistics collected on each tennis player as a result of their match. Important statistics include set scores, total points won, winning shots, unforced errors, net points won, break points won, first and second serve percentages and net points won, among many others. In order to find a solution to our question, we determined what statistics were most important and used those for predictive analysis.
 
